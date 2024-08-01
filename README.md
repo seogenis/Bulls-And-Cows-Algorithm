@@ -15,6 +15,9 @@ This repository contains an implementation of the Bulls and Cows game, a classic
 2. **Making a Guess**: The player inputs their guess, which is then compared to the secret code.
 3. **Receiving Feedback**: The game displays the number of bulls and cows to guide the player towards the correct code.
 
+## Beat the AI
+- I've made an algorithm to play the game against you named J.O.H.N. Beat John! 
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
